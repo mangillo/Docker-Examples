@@ -6,7 +6,7 @@ namespace hello_docker_sample
     {
         static void Main(string[] args)
         {
-            //hello
+            //hello - testing
             if (args.Length == 0)
             {
                 Console.WriteLine("Getting started with docker!");
